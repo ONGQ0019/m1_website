@@ -1,0 +1,5 @@
+streamlit
+streamlit-chat
+pinecone-client
+streamlit-extras
+openai
